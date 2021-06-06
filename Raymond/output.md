@@ -1,8 +1,8 @@
-#Input
+# Input
 
-![alt text](https://github.com/karved/Distributed-Computing/Raymond/r.png)
+![alt text](https://github.com/karved/Distributed-Computing/blob/main/Raymond/r.png)
 
-#Output
+# Output
 
 Tree Creation
 \--------------------

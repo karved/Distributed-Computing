@@ -1,4 +1,4 @@
-#Output
+# Output
 
 Enter No.of inputs:
 6

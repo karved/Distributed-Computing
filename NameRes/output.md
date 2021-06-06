@@ -1,4 +1,4 @@
-#Output
+# Output
 
 Enter a web address
 teams.microsoft.com

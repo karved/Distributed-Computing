@@ -1,8 +1,8 @@
-#Input
+# Input
 
-![alt text](https://github.com/karved/Distributed-Computing/VectorClock/vc.png)
+![alt text](https://github.com/karved/Distributed-Computing/blob/main/VectorClock/vc.png)
 
-#Output
+# Output
 
 Enter No.of Processes:
 3
