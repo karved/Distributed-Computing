@@ -27,8 +27,8 @@ p4
 Enter burst time:  
 6  
   
-|Process| Burst Time  |Wait Time   |  TurnA  |  
-|---|--|--|--|--|   
+|Process| Burst Time  |Wait Time   |  TurnA  |
+|---|--|--|--|
 |p1   |           1 |                      0    |                   1|  
 |p3  |            2  |                     1   |                    3|  
 |p2 |             5   |                    3  |                     8|  
