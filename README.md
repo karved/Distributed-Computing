@@ -10,6 +10,10 @@ Codes for **CSL802**  - Distributed Computing Lab
   
 4. [Election algorithm: Bully algorithm](https://github.com/karved/Distributed-Computing/tree/main/Bully)  
   
-5. [Mutual Exclusion: Raymond’s tree based method](https://github.com/karved/Distributed-Computing/tree/main/Raymond)
+5. [Mutual Exclusion: Raymond’s tree based method](https://github.com/karved/Distributed-Computing/tree/main/Raymond)  
+  
+6. [Scheduling Algorithms](https://github.com/karved/Distributed-Computing/tree/main/ScheduleAlgo)
+
+
 
 

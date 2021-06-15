@@ -27,12 +27,12 @@ p4
 Enter burst time:  
 6    
   
-|Process| Burst Time  |Wait Time   |  TurnA  |
-|---|--|--|--|--| 
-|p1|              1|                       0|                       1|  
-|p2         |     5      |                 1   |                    6  |
-|p3        |      2       |                6  |                     8  |
-|p4       |       6        |               8 |                      14  |
+|Process| Burst Time  |Wait Time   |  TurnA  |  
+|---|--|--|--|--|   
+|p1|              1|                       0|                       1|    
+|p2         |     5      |                 1   |                    6  |  
+|p3        |      2       |                6  |                     8  |  
+|p4       |       6        |               8 |                      14  |  
     
 Average Waiting Time: 3.75  
 Average TurnAround Time: 7.25  
